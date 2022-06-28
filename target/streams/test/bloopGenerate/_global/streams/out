@@ -1,0 +1,4 @@
+[debug] [warmup-test] Classpath dependencies List()
+[debug] [warmup-test] Dependencies from configurations List(warmup)
+[debug] Bloop wrote the configuration of project 'warmup-test' to '/Users/jakewhite/projects/JetBrains/Assignment/warmup/.bloop/warmup-test.json'
+[success] Generated .bloop/warmup-test.json
